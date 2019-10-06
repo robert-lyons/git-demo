@@ -1,0 +1,3 @@
+# LICENSE
+
+## Version 2.0
